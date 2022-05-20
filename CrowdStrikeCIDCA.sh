@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #
-# File Name: CrowdStrikeCID.sh https://github.com/dcoobs/mosyle
+# File Name: CrowdStrikeCIDCA.sh https://github.com/dcoobs/mosyle
 #
 # Custom command attribute to check and report the Mac's CrowdStrike instance CID
 # Includes logic to echo "N/A" if the computer does not have CrowdStrike running
